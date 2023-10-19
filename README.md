@@ -3,7 +3,9 @@
 Backend Developer with a strong background in the steel industry. 
 Have a Specialist’s degree with honors in "Electrical drive and Automation Engineering". 
 Currently, I’m focused on Web and RestAPI backend software development and have a keen interest in DevOps and Golang.
+
 In free time: rock climbing, mountaineering, traveling.
+
 Feel free to contact me on Telegram @wandeder or email 33morozov@gmail.com
 
 ***
