@@ -1,4 +1,4 @@
-#### Hi, someone!
+#### Hi, everyone!
 
 Backend Developer with a strong background in the steel industry. 
 Have a Specialist’s degree with honors in "Electrical drive and Automation Engineering". 
